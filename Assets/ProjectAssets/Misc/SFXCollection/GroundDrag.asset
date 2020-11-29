@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92148cb4c4fa4c04e84afcf0b61f8bbe, type: 3}
+  m_Name: GroundDrag
+  m_EditorClassIdentifier: 
+  audio:
+  - {fileID: 8300000, guid: 57996840620878f428fa7efebc0491f5, type: 3}
+  - {fileID: 8300000, guid: 20ca1cf9c0117ed4281bc5dd483fd172, type: 3}
+  - {fileID: 8300000, guid: 005e6d8fc56a14c4b84bf3d099f4d367, type: 3}
+  - {fileID: 8300000, guid: 463c52c2024567a42aeb94ab9070738d, type: 3}
+  - {fileID: 8300000, guid: 148f38997aa86d046ad45a9426bcd014, type: 3}
+  - {fileID: 8300000, guid: 3f3bfced6e7888d4eae83c33c4f8c0c0, type: 3}
+  - {fileID: 8300000, guid: e90b81b0f7fa073469050860020411aa, type: 3}

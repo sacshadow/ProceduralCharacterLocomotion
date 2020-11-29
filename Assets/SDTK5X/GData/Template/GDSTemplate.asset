@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e2e267a12ef1e458472dbb6127a007, type: 3}
+  m_Name: GDSTemplate
+  m_EditorClassIdentifier: 
+  savePath: E:/Unity Project/esports/ESport Manager/Assets/GameScripts/Data/GeneratedData
+  classTemplate: {fileID: 4900000, guid: db323d999c9691d489208abd18e0cd45, type: 3}
+  envTemplate: {fileID: 4900000, guid: dc2d5a5ce83a8dd4d99994310091e4c5, type: 3}

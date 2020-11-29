@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92148cb4c4fa4c04e84afcf0b61f8bbe, type: 3}
+  m_Name: PunchStrong
+  m_EditorClassIdentifier: 
+  audio:
+  - {fileID: 8300000, guid: 4de557d5fbfd5174fae8d67714ee68ce, type: 3}
+  - {fileID: 8300000, guid: a99eb9c223a485b49856ff2577bac57b, type: 3}
+  - {fileID: 8300000, guid: e0252eea1503b9d49adc335df32de453, type: 3}
+  - {fileID: 8300000, guid: 0de262e3de2d6c2439298879f7f01148, type: 3}
+  - {fileID: 8300000, guid: a992bdd4c508bd646b3db1175d1e1811, type: 3}
+  - {fileID: 8300000, guid: bf4414bec8ada444d86022757d7120e6, type: 3}
+  - {fileID: 8300000, guid: 543576644fff8244ab55194a1f88fd56, type: 3}
+  - {fileID: 8300000, guid: 34919a3378b28b74f94ef605408531dd, type: 3}
+  - {fileID: 8300000, guid: 8702cb4d5549d0c448d2cb668aba0a64, type: 3}
+  - {fileID: 8300000, guid: d5fcd8f6f5dac0c40bd997625f6a7e57, type: 3}
+  - {fileID: 8300000, guid: f3c117b25c65495469f85be07f7d3404, type: 3}

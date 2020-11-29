@@ -1,0 +1,22 @@
+﻿using UnityEngine;
+//using UnityEditor;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
+
+//using UnityLisp;
+
+public class #DataType : #InheritType {
+	
+#Params
+	
+	public override void ReadData(DataReader reader) {
+#DataReader
+	}
+	
+	public override void WriteData(DataWriter writer) {
+#DataWriter
+	}
+	
+}

@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: e8da9fe8f021559468b23b02a457a2da
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Ankle_L
+    100002: Ankle_R
+    100004: Belt
+    100006: Belt_Ribbon
+    100008: Body
+    100010: Boots
+    100012: Bracers_L
+    100014: Bracers_R
+    100016: Chest
+    100018: Clavicle_L
+    100020: Clavicle_R
+    100022: Elbow_L
+    100024: Elbow_R
+    100026: Femur_L
+    100028: Femur_R
+    100030: GroundPoint_L
+    100032: GroundPoint_R
+    100034: Hair
+    100036: Hat
+    100038: Head
+    100040: Head 1
+    100042: Knee_L
+    100044: Knee_R
+    100046: //RootNode
+    100048: Mask
+    100050: MOW_Man
+    100052: Neck
+    100054: Pants
+    100056: Root
+    100058: Shoulder_L
+    100060: Shoulder_R
+    100062: ShoulderArmor_L
+    100064: ShoulderArmor_R
+    100066: Waist
+    100068: Wrist_L
+    100070: Wrist_R
+    400000: Ankle_L
+    400002: Ankle_R
+    400004: Belt
+    400006: Belt_Ribbon
+    400008: Body
+    400010: Boots
+    400012: Bracers_L
+    400014: Bracers_R
+    400016: Chest
+    400018: Clavicle_L
+    400020: Clavicle_R
+    400022: Elbow_L
+    400024: Elbow_R
+    400026: Femur_L
+    400028: Femur_R
+    400030: GroundPoint_L
+    400032: GroundPoint_R
+    400034: Hair
+    400036: Hat
+    400038: Head
+    400040: Head 1
+    400042: Knee_L
+    400044: Knee_R
+    400046: //RootNode
+    400048: Mask
+    400050: MOW_Man
+    400052: Neck
+    400054: Pants
+    400056: Root
+    400058: Shoulder_L
+    400060: Shoulder_R
+    400062: ShoulderArmor_L
+    400064: ShoulderArmor_R
+    400066: Waist
+    400068: Wrist_L
+    400070: Wrist_R
+    2100000: ShoulderArmorMat
+    2100002: BracersMat
+    2100004: MaskMat
+    2100006: HatMat
+    2100008: HairMat
+    2100010: faceMat
+    2100012: BeltMat
+    2100014: ClothMat
+    2100016: PantsMat
+    2100018: BootsMat
+    2300000: Belt
+    2300002: Belt_Ribbon
+    2300004: Bracers_L
+    2300006: Bracers_R
+    2300008: Hair
+    2300010: Hat
+    2300012: Head 1
+    2300014: Mask
+    2300016: ShoulderArmor_L
+    2300018: ShoulderArmor_R
+    3300000: Belt
+    3300002: Belt_Ribbon
+    3300004: Bracers_L
+    3300006: Bracers_R
+    3300008: Hair
+    3300010: Hat
+    3300012: Head 1
+    3300014: Mask
+    3300016: ShoulderArmor_L
+    3300018: ShoulderArmor_R
+    4300000: ShoulderArmor_R
+    4300002: Bracers_R
+    4300004: ShoulderArmor_L
+    4300006: Bracers_L
+    4300008: Mask
+    4300010: Hat
+    4300012: Hair
+    4300014: Head
+    4300016: Belt
+    4300018: Belt_Ribbon
+    4300020: Body
+    4300022: Pants
+    4300024: Boots
+    9500000: //RootNode
+    13700000: Body
+    13700002: Boots
+    13700004: Pants
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+using UnityEngine;
+//using UnityEditor;
+using System;
+using System.Collections;
+using System.Collections.Generic;
+//using System.Linq;
+
+using SDTK.Data;
+
+[SAConfig]
+[Serializable]
+public class #ConfigName {
+	
+	#Param
+	
+	[SACSave]
+	public static void SaveConfig(string path) {
+		SDTK.DataRW.SetClassToXML(new #ConfigName {
+			#SaveParam
+		}, path + "/#ConfigName.xml");
+	}
+	
+	[SACLoad]
+	public static void LoadConfig(string path) {
+		var config = SDTK.DataRW.GetClassFromXML<#ConfigName>(path + "/#ConfigName.xml");
+		#LoadParam
+	}
+	
+}

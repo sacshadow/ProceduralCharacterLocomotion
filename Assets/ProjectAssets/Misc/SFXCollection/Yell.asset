@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 92148cb4c4fa4c04e84afcf0b61f8bbe, type: 3}
+  m_Name: Yell
+  m_EditorClassIdentifier: 
+  audio:
+  - {fileID: 8300000, guid: fed2d70b4088c6f48a50f766950e2b52, type: 3}
+  - {fileID: 8300000, guid: 4c97dee892a0c53418342965454209b7, type: 3}
+  - {fileID: 8300000, guid: ab8f883adfbf3ff4796d641c61014570, type: 3}
+  - {fileID: 8300000, guid: 46bf07b9bbeabce489dbcfceba252849, type: 3}
+  - {fileID: 8300000, guid: 2465341e2b17efa45887d930e19caf13, type: 3}
+  - {fileID: 8300000, guid: d1d567ef041ea9b4cb39ad6763f8024b, type: 3}
+  - {fileID: 8300000, guid: 1c57c388e35db07478a71354656b4eb3, type: 3}
+  - {fileID: 8300000, guid: 230f7f96e94dc034f9c11b56ffe0807d, type: 3}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 641c75ebbdcdc7343837efb8f9f3ae28, type: 3}
+  m_Name: DefaultHumanWeightRate
+  m_EditorClassIdentifier: 
+  spine:
+  - 0.15
+  - 0.15
+  - 0.15
+  leftArm:
+  - 0
+  - 0.04
+  - 0.025
+  - 0.01
+  - 0
+  rightArm:
+  - 0
+  - 0.04
+  - 0.025
+  - 0.01
+  - 0
+  leftLeg:
+  - 0.075
+  - 0.06
+  - 0.015
+  rightLeg:
+  - 0.075
+  - 0.06
+  - 0.015
+  neck:
+  - 0.05
+  - 0.095
